@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -r ./^[A-Z][a-z0-9_-]* /tmp/u
+mv [[:upper:]]* /tmp/u
