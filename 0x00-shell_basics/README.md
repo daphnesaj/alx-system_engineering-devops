@@ -27,3 +27,11 @@
 13-symbolic_link: This script creates a symbolic link to the file /bin/ls names ls
 
 14-copy_html: This script copies HTML files from the current dir to the parent dir and updates that of the parent dir if it exists
+
+100-lets_move: This script moves files that begin with uppercase to /tmp/u
+
+101-clean_emacs: This script deletes all files that end with ~
+
+102-tree: This script creates the directories with the appropriate parent directories
+
+103-commas: This script lists, orders and separates each item with a comma
